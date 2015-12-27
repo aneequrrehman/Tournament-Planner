@@ -2,7 +2,6 @@
 -- Table definitions for the tournament project.
 
 
-DROP DATABASE IF EXISTS tournament;
 CREATE DATABASE tournament;
 
 
