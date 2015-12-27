@@ -1,7 +1,9 @@
 # Tournament-Planner
-A database schema to store the game matches between players.
-The code to query this data and determine the winner of the various games was
-written in Python using DB-API.
+This project is created to host a non-elimination Swiss-style tournament 
+where players are only matched against the players with almost the same
+number of wins. The database schema to store the game matches between players,
+and the code to query this data, plan the matches between players and determine
+the rankings of the players is presented here.
 
 # Tournament Planner Database Project for Udacity Full Stack Nano Degree Program
 
