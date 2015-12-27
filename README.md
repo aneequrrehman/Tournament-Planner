@@ -3,7 +3,7 @@ A database schema to store the game matches between players.
 The code to query this data and determine the winner of the various games was
 written in Python using DB-API.
 
-#Tournament Planner Database Project for Udacity Full Stack Nano Degree Program
+# Tournament Planner Database Project for Udacity Full Stack Nano Degree Program
 
 
 FILES INCLUDED
@@ -28,8 +28,13 @@ REQUIREMENTS
 SPECIFICATIONS
 --------------
 	
-	- Players can be registered in or deleted from the database
-	- O
+	- Players can be registered in or deleted from the database.
+	- The matches played by the players can be stored or deleted.
+	- The rankings of the players can be viewed based on their wins and losses.
+	- The swiss-style pairings of the players can be generated to plan matches
+	between players so that each player goes agains the player with almost the
+	same number of wins
+
 
 HOW TO USE
 ----------
