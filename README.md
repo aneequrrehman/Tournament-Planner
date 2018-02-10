@@ -107,7 +107,7 @@ CREDITS
 	Credits are given to:
 
 	- "Udacity" for teaching the core concepts
-	- "python.ord" community for the concise documentation they have provided
+	- "python.org" community for the concise documentation they have provided
 	- "StackOverflow.com" community for their continuous support
 	- Official postgreSQL documentation has helped a lot
 
